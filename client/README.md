@@ -70,11 +70,11 @@ npm start
 4. Run--> ```npm start```
 5. Run--> open a new console and ```npm start``` in client directory
 6. To get access with mongodb in console:
-		a. open an new console 
-      b. ```mongo```
-		c. ```use certification```
-		d. ```show collections```
-		e. ```db.<collection name>.find().pretty()```
+	a. open an new console 
+	b. ```mongo```
+	c. ```use certification```
+	d. ```show collections```
+	e. ```db.<collection name>.find().pretty()```
 
 ## Deploying Smart Contract
 
