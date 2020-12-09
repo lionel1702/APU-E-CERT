@@ -17,6 +17,13 @@
    ```
 
    > Ganache provides us our personal local blockchain network which we can use to develop our blockchain application. It also gives temporary test accounts with fake ethereum which we can use to run our apps. We need to start the RPC server before running our application.
+   
+1. Configure your .env file
+
+```bash 
+LOCAL_ENDPOINT=http://127.0.0.1:7545
+NETWORK_ID=5888
+```
 
 1. To start the RPC server run the command
 
@@ -56,7 +63,7 @@
    });
    ```
 
-1. Include these username and password in the `.env` file.
+1. Make changes with username and password in the `.env` file.
 
 ### Now we can start the server
 
