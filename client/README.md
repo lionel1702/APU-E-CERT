@@ -20,10 +20,10 @@
    
 1. Configure your .env file
 
-```bash 
-LOCAL_ENDPOINT=http://127.0.0.1:7545
-NETWORK_ID=5888
-```
+    ```bash 
+    LOCAL_ENDPOINT=http://127.0.0.1:7545
+    NETWORK_ID=5888
+    ```
 
 1. To start the RPC server run the command
 
