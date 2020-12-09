@@ -1,4 +1,4 @@
-# CertoSol - Blockchain based Certificate Validation
+# APU E-Cert - Blockchain-Based Academic Certificate Credentialing System for Asia Pacific University
 
 > Built using Ethereum on local blockchain setup and deployed on Rinkeby test network.
 
