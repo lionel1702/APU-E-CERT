@@ -63,6 +63,18 @@
 ```bash
 npm start
 ```
+### The General Steps 
+1. Run--> ```npm run ganache```
+2. Run--> ```npm run contract-deploy```
+3. In case of error, update Network ID in .env file
+4. Run--> ```npm start```
+5. Run--> open a new console and ```npm start``` in client directory
+6. To get access with mongodb in console:
+		a. open an new console 
+      b. ```mongo```
+		c. ```use certification```
+		d. ```show collections```
+		e. ```db.<collection name>.find().pretty()```
 
 ## Deploying Smart Contract
 
